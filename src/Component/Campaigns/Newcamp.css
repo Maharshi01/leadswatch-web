@@ -1,0 +1,1062 @@
+.c_main_block {
+  width: 90%;
+  margin: auto;
+
+  padding-top: 2.8rem;
+  padding-bottom: 3rem;
+}
+
+.first_row {
+  display: flex;
+  width: 100%;
+}
+input.form-control.campaignsName {
+  width: 70%;
+  margin: 0;
+  padding: 0;
+}
+.first_row label,
+.campaign_description label,
+.third_row label,
+.buy label,
+.area label,
+.first-para label {
+  color: #484393;
+  font-weight: 500;
+}
+.toggle_btn {
+  margin: 1.5rem 0rem;
+}
+.date_row_camp {
+  display: flex;
+  margin-bottom: 2.2rem;
+  margin-top: 0;
+}
+.third_row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 0px;
+}
+.campaign_description {
+  width: 100%;
+}
+.first_row .columns {
+  padding: 0;
+}
+.input_fields_d {
+  border: none;
+  /* border-bottom: 1px solid #0000002e; */
+  outline: none;
+  /* border: 1px solid #484393; border-radius: 3px; width: 20%;  */
+  width: 100%;
+  /* padding: 5px 7px;
+    margin-left: 19px; */
+}
+.input_fields_s {
+ border: none;
+  padding: 0;
+  width: 444px;
+  outline: none;
+  margin-left: -0.5rem;
+}
+.input_fields_buy {
+  outline: none;
+  border: none;
+  background: none;
+  padding: 3px 0;
+  width: 100%;
+  margin-top: 1%;
+  outline: none;
+  text-align: left;
+}
+.buy {
+  margin-top: 0px;
+  border-bottom: 2px solid #484393;
+  padding-bottom: 5%;
+}
+.items {
+  float: right;
+  background-color: #f3f4f7;
+  width: 367px;
+  margin-bottom: 14px;
+  height: 37px;
+  padding: 5px 6px;
+  margin-left: 8%;
+}
+.pub_camp_scroll {
+height: 10rem;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  /* margin-left: -5px; */
+}
+
+.items button {
+  margin-bottom: 10px;
+  width: 318px;
+}
+.select {
+  margin-top: 7%;
+  font-size: 15px;
+  font-weight: 400;
+}
+label.text {
+  margin-left: 5%;
+  line-height: 55px;
+}
+/* .arrow01 {
+    margin-top: 1rem;
+} */
+.on {
+  margin-left: 40%;
+
+  margin-top: -8%;
+}
+.alon {
+  display: inline-block !important;
+}
+.link {
+  float: right;
+  margin-right: 4%;
+}
+.add {
+  display: flex;
+  width: 99%;
+  background-color: #f3f4f7;
+  float: left;
+  padding: 0px 10px;
+  margin-top: 10px;
+}
+.from {
+  display: flex;
+  width: 90%;
+}
+/* .each{
+   border: 1px solid blue;
+} */
+.each {
+  /* border:1px solid #484393 */
+  /* width: 100%;
+  display: flow-root;
+  margin-top: -7px; */
+  width: 24rem;
+  margin-left: -1rem;
+  padding-bottom: 14rem;
+}
+/* .each{ border: 1px solid #484393;      margin-top: 12px;} */
+span.icon-red {
+  font-size: 36px;
+  color: #ff0000;
+}
+span.icon-red1 {
+  font-size: 36px;
+  color: #ff0000;
+  margin-right: 7px;
+}
+.close-icon {
+  margin-top: -3px;
+}
+.one {
+  margin-top: 17px;
+  margin-left: 11px;
+}
+.arrow {
+  margin-top: -7px;
+}
+/* .arrow_down{
+    margin-top: -15px;
+} */
+.trak {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f3f4f7;
+  /* width: 100%; */
+  height: 59px;
+  margin-top: 1%;
+  padding: 4px 4px 4px 4px;
+  width: 24.8rem;
+  margin-left: -1.5rem;
+  margin-bottom: 0.5rem;
+}
+.trak p {
+  margin-top: 15px;
+  margin-left: 11px;
+}
+.create {
+  margin: 0px auto;
+  margin-bottom: 2.8rem;
+  margin-top: -1.5rem;
+  outline: none !important;
+  text-align: center;
+}
+.create button {
+  background-color: #00b0eb;
+  color: #fff;
+  border-radius: 25px;
+  height: 35px;
+  height: 39px;
+  width: 20%;
+  border: none;
+  outline: none !important;
+}
+.creatvcmain_outline {
+  outline: none !important;
+}
+.below-section {
+  margin-top: 4%;
+  display: flex;
+  justify-content: left;
+  /* margin-left: -16px; */
+}
+span.icons {
+  font-size: 21px;
+}
+.create_camp_bg {
+  background: #fff;
+  border: 1px solid #484393;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 7px;
+}
+.pubname_p {
+  color: #484393;
+  font-weight: 600;
+  text-align: center;
+  font-size: 20px;
+}
+.campaign_popup_01,
+.campaign_popup_01 label {
+  color: #484393;
+  font-weight: 600;
+}
+
+button.campaign_popup_btn {
+  margin: auto;
+  display: block;
+  background: #00b0eb;
+  border: none;
+  outline: none !important;
+  border-radius: 30px;
+  padding: 0.5rem 2rem;
+  margin-top: 1rem;
+  color: white;
+}
+.campaign_add_search {
+  border: 1px solid #484393;
+  border-radius: 30px;
+  margin: auto;
+  display: block;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  padding: 0.4rem;
+  outline: none;
+  width: 100%;
+}
+.added_buyer {
+  margin: 0.8rem 0rem;
+  border: 1px solid #484393;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+.added_buyer label {
+  color: #484393;
+  font-weight: 600;
+  /* display: flex !important; */
+  justify-content: space-between;
+}
+.added_buyer input[type="checkbox"] {
+  width: 20%;
+  height: 16px;
+  /* margin-top: 0.3rem;
+    margin-left:25rem; */
+  float: right;
+  margin-top: 1%;
+}
+.Campaign_name {
+  color: #00b0eb !important;
+  font-weight: 500 !important;
+}
+.up-arrow {
+  margin-top: 2%;
+}
+.Allow_dup {
+  font-size: 18px;
+  font-weight: 500;
+  color: #00b0eb;
+  margin-bottom: -8px;
+}
+.edit_camp_but {
+  outline: none;
+}
+.allow_dup_div {
+  margin-left: -4%;
+}
+.active_cls {
+  color: black;
+}
+/* .camp_input{
+    margin-top:-2%!important;
+} */
+.icons {
+  width: 10% !important;
+  color: #484393;
+}
+
+.md-form {
+  margin-top: 0.5rem !important;
+}
+textarea#text-area {
+  height: 45px;
+}
+.active_green {
+  color: #1bac38;
+  /* margin-top: -4%; */
+}
+.active_green_set {
+  color: #1bac38;
+  width: 56px;
+  font-weight: 500;
+  /* margin-top: -4%; */
+  margin-right: 1rem;
+  margin-left: 3px;
+}
+.active_red_set {
+  color: #ff0000;
+  font-weight: 500;
+  /* margin-top: -4%; */
+  margin-right: 1rem;
+  width: 56px;
+  /* margin-top: -4%; */
+}
+.active_red {
+  color: #ff0000;
+
+  /* margin-top: -4%; */
+}
+
+.show-enter {
+  width: 15%;
+  float: left;
+  padding: 0px 0px 0px 13px;
+}
+
+.camp-header h2 {
+  text-align: center;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  padding-top: 15px;
+  font-size: 16px;
+}
+
+.camp-header_buy h2 {
+  text-align: center;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  padding-top: 15px;
+  font-size: 16px;
+}
+
+label.camp-show {
+  font-size: 1rem;
+  color: #484393;
+  font-weight: 400;
+  margin-right: 5px;
+}
+select {
+  border: 1px solid #484393;
+  border-radius: 3px;
+  height: 30px;
+  width: 45px;
+}
+.camp-refrsh {
+  display: flex;
+}
+select.camp-select {
+  width: 127px;
+  margin-left: -110%;
+  height: 36px;
+}
+.camp-apply {
+  background-color: #484393;
+  border-radius: 25px;
+  width: 94px;
+  height: 36px;
+  margin-left: -13%;
+  text-align: center;
+  position: relative;
+  padding-top: 4px;
+  margin-right: 4%;
+}
+.camp-apply a:hover {
+  color: #fff;
+  text-align: center;
+}
+.camp-apply a {
+  color: #fff;
+  text-align: center;
+}
+/* .createBuyer_btn_div{ margin: 0 !important;} */
+.searchbarValue_Div_leads {
+  /* display: flex;
+    justify-content: flex-end;
+    position: relative;
+    width: 100%;
+    margin-right: 1.1rem; */
+
+  display: flex;
+  justify-content: flex-end;
+
+  width: 100%;
+  margin-right: 1.1rem;
+}
+.searchbarValue_Div_leads011 {
+  display: flex;
+  justify-content: flex-end;
+  /* position: relative; */
+  width: 18.8%;
+  margin-top: 0px;
+  margin-right: 1.3rem;
+}
+.searchbarValue_field {
+  outline: none;
+  border-radius: 30px;
+  border: none;
+  height: 34px;
+  padding: 0 2rem;
+}
+.circularArrow {
+  position: absolute;
+  color: #fff;
+  padding: 3px;
+  background: #484393;
+  border-radius: 50%;
+  font-size: 34px;
+  right: 3px;
+}
+input.input_fields_d.camp-end {
+  position: relative;
+  left: -77px;
+}
+.createBuyer_btn_div.camp-btn {
+  padding: 0px;
+  width: 179px;
+  font-size: 0.8rem;
+  padding-left: 4%;
+}
+.createBuyer_btn2 {
+  background: #00b0eb;
+  color: #fff;
+  border: none;
+  /* width: 172px; */
+  font-weight: 4700;
+  font-family: 500;
+  font-size: 14px;
+
+  margin-left: -2rem;
+  border-radius: 30px;
+  padding: 0rem 1.5rem;
+  /* margin: auto; */
+  /* display: block; */
+  outline: none !important;
+  height: 33px;
+}
+
+.createBuyer_btn2_create {
+  background: #00b0eb;
+  color: #fff;
+  border: none;
+  font-weight: 4700;
+  font-family: 500;
+  font-size: 14px;
+  border-radius: 30px;
+  padding: 0 15%;
+  outline: none !important;
+  height: 48px;
+}
+
+.createBuyer_btn2_pub {
+  background: #f3f4f7;
+  color: #f3f4f7;
+  border: none;
+  /* width: 172px; */
+  font-weight: 4700;
+  font-family: 500;
+  font-size: 14px;
+  width: 163px;
+
+  border-radius: 30px;
+  /* padding: 0rem 1.5rem; */
+  /* margin: auto; */
+  /* display: block; */
+  outline: none !important;
+  height: 48px;
+}
+.camp-second {
+  margin: 1rem 0px;
+}
+
+/* .camp_input {
+    overflow: hidden;
+    text-align: center;
+    border-bottom:1px solid #ccc;
+   height:50px;
+}
+.camp_input:before{
+    background-color: #000;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 30%;
+    
+}
+.camp_input:after {
+    background-color: #000;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 30%;
+    
+}
+.camp_input:before {
+    right: 2.5em;
+
+}
+.camp_input:after {
+   
+    margin-right: 10rem;
+}
+ */
+input.form-control.campaignsName {
+  border: none;
+}
+li.page-item.active {
+  display: inline-block;
+  margin: 0 5px;
+}
+input#form1 {
+  border: 1px solid #484393 !important;
+  padding: 0.375rem 0.75rem;
+  width: 90% !important;
+  margin-left: 0% !important;
+  border-radius: 4px;
+  height: 40px;
+}
+label.activelabel {
+  transform: translateY(-25px);
+  font-size: 0.9em;
+  color: #000;
+  text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 2px 0 0 #fff, -2px 0 0 #fff,
+    0 1px 0 #fff, 0 -1px 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff;
+}
+textarea#form75 {
+  border: 1px solid #484393;
+  height: 134px;
+  border-radius: 4px;
+}
+
+input:focus ~ .floating-label,
+input:not(:focus):valid ~ .floating-label {
+  top: 8px;
+  bottom: 10px;
+  left: 20px;
+  font-size: 11px;
+  opacity: 1;
+}
+.camp_input {
+  margin-bottom: 4%;
+  width: 29.7rem;
+}
+/* .camp_input123 {
+    margin-bottom:-3%;
+} */
+.camp_error122 {
+  color: #ff0000;
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: -0.5rem;
+}
+
+.inputText {
+  font-size: 14px;
+  width: 200px;
+  height: 35px;
+}
+
+.floating-label {
+  position: absolute;
+  pointer-events: none;
+  left: 20px;
+  top: 18px;
+  transition: 0.2s ease all;
+}
+
+input {
+  border: none;
+  outline: none;
+  width: 93%;
+}
+.border01,
+.border02 {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  padding: 12px 6px;
+}
+.border02_pub_camp {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  padding-left: -10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+.border02_dup {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  padding: 0.375rem 0.75rem;
+  height: 40px;
+}
+
+.border02_startdate {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  padding: 0.375rem 0.75rem;
+  height: 40px;
+}
+
+.border02_buy_camp {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  padding: 3px 6px;
+  margin-top: -1rem;
+  padding-bottom: 0.3rem;
+}
+
+.border02_simul {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  padding: 0.375rem 0.75rem;
+  height: 40px;
+}
+.border02_copy_clip {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  padding: 0px 6px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.border02_startdate h1 {
+  color: #484393;
+  font-size: 0.8rem;
+  font-weight: 600;
+  top: -9px;
+  position: absolute;
+  background-color: #fff;
+  padding: 0px 8px;
+  left: 9px;
+}
+
+.border02_pub_camp h1 {
+  color: #484393;
+  font-size: 0.8rem;
+  font-weight: 600;
+  top: -9px;
+  position: absolute;
+  background-color: #fff;
+  padding: 0px 8px;
+  left: 9px;
+}
+
+.border2019.border2019SelectBuyers {
+  padding: 0.375rem 0.75rem;
+  height: auto;
+  min-height: 40px;
+}
+.border2019.border2019SelectBuyers h1 {
+  top: -9px;
+  position: absolute;
+  background-color: #fff;
+  padding: 0px 8px;
+  left: 9px;
+  color: #484393;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.buyer_table_heading.buyer_table_headingCampaignCreate {
+  margin-top: -1px;
+}
+
+textarea {
+  border: none;
+  outline: none;
+}
+.copy-link {
+  width: 100%;
+  margin-top: 3%;
+}
+.camp_publish {
+  display: flex;
+  width: 100%;
+  float: left;
+  margin-top: 0px;
+}
+select.input_fields_s.allows {
+  background: none;
+  width: 100%;
+}
+.lead-distrub {
+  margin-top: 11%;
+  margin-bottom: 11%;
+}
+.scroll-pub {
+  width: 27rem;
+  /* margin-top: 7%; */
+  margin-left: -0.5rem;
+}
+.area {
+  border: 1px solid #484393;
+  padding: 10px;
+  border-radius: 4px;
+  width: 100%;
+}
+.pub-lab {
+  border: 1px solid #484393;
+  padding: 16px 12px 16px 12px;
+  border-radius: 4px;
+}
+.camp_mdrange {
+  position: absolute;
+  top: 14.8rem;
+  left: 24rem;
+  color: #484393;
+  font-size: 18px;
+}
+.camp_mdrange2 {
+  position: absolute;
+  color: #484393;
+  top: 14.8rem;
+  left: 32.5rem;
+  font-size: 18px;
+}
+
+.input_fields_d22 {
+  border: none;
+  /* border-bottom: 1px solid #0000002e; */
+  outline: none;
+  border: 1px solid #484393;
+  width: 56%;
+  padding: 5px 7px;
+  margin-left: 19px;
+  border-radius: 3px;
+}
+input.input_fields_d.camp-end {
+  position: relative;
+  left: -77px;
+  border: 1px solid #484393;
+  border-radius: 3px;
+}
+.searchbarValue_Div_camp {
+  width: 23%;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+.select_pub_label_camp {
+  color: #484393;
+  font-weight: 500;
+}
+.contact_close_div5 {
+  font-size: 50px;
+  float: right;
+  width: 100%;
+  margin-top: -4%;
+  text-align: right;
+}
+.date_block_campaign {
+  display: flex;
+  width: 65%;
+  justify-content: space-between;
+}
+.date_block_campaign_inner {
+  display: flex;
+  /* width: 70%; */
+  margin: auto;
+  padding-left: 3%;
+}
+.campaign_edit_svg {
+  margin-right: 1.5rem;
+}
+button.input_fields_buy {
+  outline: none !important;
+  background-color: #484393;
+  border-radius: 4px;
+  /* padding: 0.5rem; */
+  height: 31px;
+  margin-top: 7px;
+  text-align: center;
+  padding-top: 2px;
+  color: #fff;
+}
+.border2019 {
+  border: 1px solid #484393;
+  border-radius: 4px;
+  position: relative;
+  /* padding: 0px 6px; */
+  margin-left: 1.7rem;
+  width: 27.4rem;
+  margin-bottom: 2rem;
+  height: 40px;
+}
+
+.PubcampaignEdit,
+.PubcampaignEdit:focus {
+  border-bottom: none !important;
+  padding: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.border2019 .md-form {
+  margin-bottom: 0;
+  padding: 0.375rem 0.75rem;
+  margin-top: 0 !important;
+}
+.campaign_popup_select {
+  border: none;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  outline: none;
+  border-bottom: none !important;
+  padding: 0.375rem 0.75rem ;
+}
+.campaign_popup_select_ex{
+  padding-top: 0.5rem !important;
+  background-color: #fff !important;
+}
+.camp_table {
+  background-color: #fff;
+  width: 100%;
+  border: 1px solid #484393;
+  outline: none;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+
+  border-radius: 10px;
+}
+.on_create {
+  margin: 0 1rem;
+}
+/* .copy_clip_campaign{
+    position: absolute;
+    right: 0;
+    top: 0;
+} */
+
+.copy_clip_campaign {
+  font-size: 15px;
+  margin-top: 0.2rem;
+  background: #484393;
+  color: #fff;
+  border: none;
+  outline: none !important;
+  border-radius: 4px;
+  padding: 0.3rem 1rem;
+}
+.copy_clip_campaign span {
+  margin-left: 7px;
+  margin-right: -9px;
+}
+
+.copyclip_input {
+  border-bottom: none !important;
+  outline: none !important;
+}
+input.form-control.copyclip_input,
+input.form-control.copyclip_input:focus {
+  width: 40rem;
+  border: none;
+  outline: none;
+  padding: 0.375rem 0.75rem;
+  margin-top: -0.3rem !important;
+}
+.border02_copy_clip .form-control {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+a.loader {
+  margin-left: 19px;
+}
+/* .down_svg{
+    margin-top: -5px;
+} */
+
+/* mani css */
+.dateIconleads,
+.dateIconleads1,
+.dateIconleads2 {
+  position: absolute;
+  top: 3px;
+  right: 16px;
+  font-size: 20px;
+  color: #484393;
+}
+.showEntriesLabel div p,
+.id_row p {
+  margin-top: 4%;
+  padding-top: 5px;
+}
+.campleft {
+  text-align: left;
+  padding-left: 3rem !important;
+}
+.md-form.md-outline label {
+  color: #484393 !important;
+  font-size: 12px !important;
+}
+label.name01 {
+  color: #484393;
+  font-weight: 600;
+  margin-left: 1rem;
+}
+.camp_pagination li.page-item {
+  display: flex;
+}
+.camp_alert_text {
+  color: #484393;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+  /* margin-top: 6rem; */
+  padding-top: 2rem;
+}
+.camp_modal_close {
+  font-size: 20px;
+  color: black;
+  /* position: absolute;
+    top: 0;
+    right: 0; */
+}
+.close_camp_modal {
+  float: right;
+  font-size: 43px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.name_geht {
+  height: 23px;
+  overflow-x: auto;
+  text-align: center;
+}
+td.Campaign_name.campleft {
+  width: 35%;
+}
+*/ .camp_error {
+  color: #ff0000;
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: 0.5rem;
+}
+
+.camp_error1 {
+  color: #ff0000;
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: 0rem;
+}
+
+.create_camp_textarea {
+  margin-bottom: 0.5rem !important;
+}
+a.camp_actions {
+  padding-left: 15%;
+}
+.end_date_div {
+  margin-left: 0.6rem;
+}
+.create_camp_textarea {
+}
+.camp_vert_div {
+  width: 27.7rem;
+}
+.camp_publish_mtop {
+  margin-top: 15px;
+}
+.searchbarValue_Div_camp01 {
+  display: flex;
+  width: 20%;
+}
+.searchbarValue_fieldleads_div01 {
+  position: relative;
+  width: 100%;
+  margin-top: 0px;
+  margin-right: 1rem;
+}
+p.camp_error {
+  color: #ff0000;
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: 0rem;
+}
+.top_arrow_01 {
+  margin-top: 7px;
+}
+.down_arrow_01 {
+  margin-top: -10px;
+}
+.campaignStatusDiv {
+  display: flex;
+  width: 100%;
+  justify-content: start;
+}
+
+input#email_id002a_12ab {
+  border: 1px solid #484393;
+  width: 9rem;
+  height: 35px;
+  margin-top: 0rem !important;
+  margin-bottom: 0px !important;
+}
+.spinner_div {
+  display: flex;
+  /* margin:auto;
+    width: 100%; */
+  /* justify-content: center;
+   align-items: center;
+    text-align: center;
+    margin-top: 15rem; */
+  margin: auto;
+  /* background-color: red; */
+  justify-content: center;
+  width: 100%;
+}
+
+.spinner_div_create {
+  display: flex;
+  /* margin:auto;
+    width: 100%; */
+  /* justify-content: center;
+   align-items: center;
+    text-align: center;
+    margin-top: 15rem; */
+  margin: auto;
+  /* background-color: red; */
+  justify-content: center;
+  width: 100%;
+}
+
+/* .buyerStatus select option{
+    border: 1px solid #484393 !important;
+} */

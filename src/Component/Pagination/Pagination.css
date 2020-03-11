@@ -1,0 +1,133 @@
+.input_div {
+    padding: 3rem 0rem;
+}
+.search_input {
+    margin: auto;
+    display: block;
+    border-radius: 30px;
+    border: none;
+    outline: none!important;
+    width: 50%;
+    height: 38px;
+    padding: 0 16px;
+}
+.showEntryDiv {
+    margin-bottom: 2rem;
+}
+.body_bg {
+    background:#F3F4F7;
+    min-height: 100vh;
+    margin-top:1rem;
+    margin-bottom: 2rem;
+}
+.body_inner {
+    width: 90.2%;
+    border: 1px solid #484393;
+    border-radius: 12px;
+    margin: auto auto 10px;
+    background-color: #fff;
+}
+table.table th, table.table td {
+    /* padding-top: 1.1rem;
+    padding-bottom: 1rem; */
+    width: 50%;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+}
+.table_response {
+    width: 50%;
+    margin: auto;
+}
+.closeBtn, .closeBtn:focus {
+    border: none;
+    font-size: 20px;
+    background: none;
+    font-weight: 900;
+    float: right;
+    outline: none!important;
+}
+.popup_modal_box {
+    width: 85%;
+    margin: auto;
+    display: block;
+    padding: 0 5% 5% 5%;
+}
+.form_flex_fields {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+}
+.form_flex_fields input.modal_popup_field {
+    width: 94%;
+}
+input.modal_popup_field, button.modal_create_btn {
+    border: none;
+    border-radius: 25px;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    margin-bottom: 1rem;
+    background:#f3efef;
+    outline: none!important;
+}
+button.modal_create_btn {
+    background: #00B0EB;
+    color: #fff;
+    outline: none!important;
+}
+label {
+    display: initial !important;
+    margin-bottom: 0rem !important;
+}
+p.popup_heading {
+    color: #00B0EB;
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+}
+img.profile_pic {
+    width: 43%;
+    /* margin: auto;
+    display: block; */
+    margin-bottom: 5%;
+    border-radius: 50%;
+    padding: 1rem;
+    border: 1px solid;
+}
+.profile_images {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 2rem;
+    position: relative;
+}
+.profile_images svg {
+    top: 80px;
+    position: relative;
+    right: 20px;
+    border: 1px solid;
+    border-radius: 50%;
+}
+table.table th, table.table td {
+    width: 0%;
+    border: 1px solid #dbdbdb;
+    padding-left: 0px !important;
+}
+
+.search_field {
+    margin: auto;
+    display: block;
+    background: #fff;
+    border: none;
+    outline: none!important;
+    border-radius: 25px;
+    padding: 0.3rem 1rem;
+    width: 50%;
+}
+/* .pagination_text{
+  margin-left: 4%;
+} */
+.pagination_text{
+    color: #484393;
+    margin-left: 1rem;
+    /* margin-top: 40px; */
+    margin-top: 25px;
+}

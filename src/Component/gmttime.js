@@ -1,0 +1,104 @@
+export const timezones=[
+{
+  "label":'GMT',
+  "value":'GMT',
+},
+{
+  "label":'GMT+1:00',
+  "value":'GMT+1:00',
+},
+{
+  "label":'GMT+2:00',
+  "value":'GMT+2:00',
+},
+{
+  "label":'GMT+3:00',
+  "value":'GMT+3:00',
+},
+{
+  "label":'GMT+4:00',
+  "value":'GMT+4:00',
+},
+{
+  "label":'GMT+5:00',
+  "value":'GMT+5:00',
+},
+{
+  "label":'GMT+5:30',
+  "value":'GMT+5:30',
+},
+{
+  "label":'GMT+6:00',
+  "value":'GMT+6:00',
+},
+{
+  "label":'GMT+7:00',
+  "value":'GMT+7:00',
+},
+{
+  "label":'GMT+8:00',
+  "value":'GMT+9:00',
+},
+{
+  "label":'GMT+9:00',
+  "value":'GMT+9:00',
+},
+{
+  "label":'GMT+10:00',
+  "value":'GMT+10:00',
+},
+{
+  "label":'GMT+11:00',
+  "value":'GMT+11:00',
+},
+{
+  "label":'GMT+12:00',
+  "value":'GMT+12:00',
+},
+{
+  "label":'GMT-11:00',
+  "value":'GMT-11:00',
+},
+{
+  "label":'GMT-10:00',
+  "value":'GMT-10:00',
+},
+{
+  "label":'GMT-9:00',
+  "value":'GMT-9:00',
+},
+{
+  "label":'GMT-8:00',
+  "value":'GMT-8:00',
+},
+{
+  "label":'GMT-7:00',
+  "value":'GMT-7:00',
+},
+{
+  "label":'GMT-6:00',
+  "value":'GMT-6:00',
+},
+{
+  "label":'GMT-5:00',
+  "value":'GMT-5:00',
+},
+{
+  "label":'GMT-4:00',
+  "value":'GMT-4:00',
+},
+{
+  "label":'GMT-3:30',
+  "value":'GMT-3:30',
+},
+{
+  "label":'GMT-3:00',
+  "value":'GMT-3:00',
+},
+{
+  "label":'GMT-1:00',
+  "value":'GMT-1:00',
+},
+
+];
+export default {};
